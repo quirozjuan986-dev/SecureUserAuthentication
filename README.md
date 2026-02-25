@@ -37,6 +37,9 @@ LogIn.java <- Log in authentication
 PasswordStrength <- Determine strength of password
 Encryptor.java <-  Manages keys, encrypts password, reads account info
 
+# Requirements to run code #
+Create 2 txt files -> go to Encryptor.java and change redirectory
+
 # Future Improvements #
 1) Improve user interface
 2) Add hashing password storage
